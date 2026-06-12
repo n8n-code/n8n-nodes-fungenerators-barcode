@@ -1,0 +1,1 @@
+export { barcodeDescription } from './barcode';
